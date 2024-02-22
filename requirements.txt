@@ -1,0 +1,4 @@
+streamlit==0.88.0
+streamlit-chat
+langchain-community
+transformers==4.28.1
